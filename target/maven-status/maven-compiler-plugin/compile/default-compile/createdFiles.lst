@@ -1,0 +1,5 @@
+servlet\DeleteServlet.class
+dao\taskDao.class
+servlet\TaskServlet.class
+util\HibernateUtil.class
+model\task.class
